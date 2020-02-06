@@ -1,6 +1,5 @@
 /* Author obendalink@gmail.com
  * Entity Helper Generic functions
- * @copyright bunilab.com
 */
 #ifndef ODB_ENTITY_MANAGER_H
 #define ODB_ENTITY_MANAGER_H

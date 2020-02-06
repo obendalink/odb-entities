@@ -1,10 +1,7 @@
 /*
  * [TODO] CHANGE THIS OBJECT TO BE A TEMPLATE AND YOU ARE GOOD TO GO
- * Mysql DB API
- * Copyright:Doctor Dk.
+ * Mysql DB API 
  * Author:  kavagi: obendalink@gmail.com
- *  Nice One. Doesnt know the database below is a mysql,sqlite,access etc.
-    How Cool. A good Library for a Project Team.
  * */
 #ifndef OBJECT_FIELD_H
 #define OBJECT_FIELD_H 1

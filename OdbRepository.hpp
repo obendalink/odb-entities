@@ -1,5 +1,4 @@
 /*Author obendalink@gmail.com
- @copyright bunilab.com
 */
 #ifndef ODB_REPOSITORY_H
 #define ODB_REPOSITORY_H
