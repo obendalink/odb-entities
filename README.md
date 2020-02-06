@@ -1,2 +1,2 @@
 # odb-entities
-Odb Entity Manager And Repository Library
+Odb C++ ORM Entity Manager And Repository Library
